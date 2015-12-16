@@ -38,6 +38,9 @@
                         <field name="NUM">3000</field>
                       </block>
                     </value>
+                    <next>
+                      <block type="movement_stop" id="6"></block>
+                    </next>
                   </block>
                 </next>
               </block>
@@ -47,5 +50,4 @@
       </block>
     </next>
   </block>
-  <block type="movement_stop" id="6" x="109" y="359"></block>
 </xml>
